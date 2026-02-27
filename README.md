@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **smadityaofficial@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1X3PezCAvCKNP-f4bQtlACZg1uzIqq1MC/view](https://drive.google.com/file/d/1X3PezCAvCKNP-f4bQtlACZg1uzIqq1MC/view)
-
 - ⚡ Fun fact **I speak both binary and human. I debug hardware with a multimeter and software with coffee. If it moves, I control it. If it thinks, I optimize it.**
 
 <h3 align="left">Connect with me:</h3>
